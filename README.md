@@ -133,6 +133,3 @@ https://job-boards.greenhouse.io/greenhouse/jobs/7296545<br>
 ->Support manual job description input<br>
 ->Deploy on Streamlit Community Cloud<br>
 ->Add CRM export support<br>
-
-## License
-This project is based on the Codebasics cold email generator tutorial repository. Check the original repository license and terms before commercial use.
